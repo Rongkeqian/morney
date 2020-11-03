@@ -1,4 +1,4 @@
-# morney-3
+# morney
 
 ## Project setup
 ```
